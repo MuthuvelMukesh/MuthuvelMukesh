@@ -39,6 +39,14 @@ I focus on **depth, discipline, and durability**. Understanding the underlying a
 
 ---
 
+## 📊 Consistency Over Intensity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthuvelmukesh&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+*Building daily. Learning consistently.*
+
+---
+
 ## 🎯 Current Focus
 
 **Learning deeply:**
