@@ -1,56 +1,72 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=MUTHUVEL+MUKESH;Learning+systems%2C+not+syntax.;Building+with+discipline." />
-
-  <p align="center">
-    <strong>IT Student • Builder • Long-Term Thinker</strong>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Depth-black?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Logic-Systems-black?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Progress-Constant-black?style=for-the-badge" />
-  </p>
-</div>
+# IT Student • Builder • Long-Term Thinker
 
 ---
 
-### 👤 THE BLUEPRINT
-I am focused on **depth, discipline, and durability**. I believe that understanding the underlying architecture is more valuable than memorizing frameworks.
+## 👤 The Blueprint
 
-- 🧠 **Conviction:** `skills > marks > titles`
-- 🏗️ **Approach:** Build from fundamentals. Optimize for the long term.
-- 🚫 **Noise:** No shortcuts. No random learning. Just consistent progress.
+I focus on **depth, discipline, and durability**. Understanding the underlying architecture matters more than memorizing frameworks.
+
+**Core Beliefs:**
+- 🧠 `skills > marks > titles`
+- 🏗️ Build from fundamentals. Optimize for the long term.
+- 🚫 No shortcuts. No random learning. Just consistent progress.
 
 ---
 
-### ⚙️ TECH STACK
-| | |
-| :--- | :--- |
-| **Languages** | `C` `Java` `Python` |
-| **Foundations** | `DSA` `Operating Systems` `DBMS` |
+## ⚙️ Tech Stack
+
+| Domain | Technologies |
+|:---|:---|
+| **Languages** | `C` `Java` `Python` `Bash` |
+| **Foundations** | `DSA` `Operating Systems` `DBMS` `Networking` |
 | **Databases** | `PostgreSQL` `SQLite` `SQL` |
-| **Environment** | `Linux` `Git` `VS Code` |
+| **DevOps** | `Linux` `Git` `Docker` `CI/CD` |
+| **Blockchain** | `Solidity` `Web3` `Smart Contracts` |
 
 ---
 
-### 📊 MOMENTUM
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuthuvelMukesh&theme=transparent&hide_border=true&stroke=DDDDDD&ring=70A1FF&fire=70A1FF&currStreakNum=FFFFFF" alt="GitHub Streak" />
-</p>
+## 🔍 Areas of Interest
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuthuvelMukesh&theme=react-dark&bg_color=0D1117&hide_border=true&color=70A1FF" width="100%" />
-</p>
+**DevOps & Infrastructure**
+- Building reliable, scalable systems from the ground up
+- Exploring automation, containerization, and infrastructure as code
+- Focus: system observability, deployment pipelines, cloud-native architectures
+
+**Blockchain & Decentralized Systems**
+- Understanding consensus mechanisms and distributed ledger architecture
+- Protocol-level knowledge over surface-level tooling
+- Focus: smart contract security, node infrastructure, DeFi systems
 
 ---
 
-### 🤝 CONNECT
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-</p>
+## 🎯 Current Focus
 
-<div align="center">
-  <br />
-  <em>"The best way to predict the future is to build it."</em>
-</div>
+**Learning deeply:**
+- Linux system administration and automation
+- Container orchestration and deployment pipelines
+- Blockchain infrastructure and smart contract development
+- Data structures, algorithms, and system design
+
+**Building for the long term:** Mastering fundamentals that compound—systems knowledge, security practices, and infrastructure thinking.
+
+---
+
+## 💡 Philosophy
+
+I believe in bridging traditional infrastructure practices with decentralized systems. DevOps principles apply everywhere—whether deploying web apps or maintaining blockchain nodes.
+
+Strong fundamentals. No shortcuts. Just consistent progress.
+
+---
+
+## 🤝 Connect
+
+Open to technical discussions, collaborations, and learning from others building with intention.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:your-email)
+
+---
+
+> *"The best way to predict the future is to build it."*
