@@ -1,80 +1,93 @@
-# IT Student • Builder • Long-Term Thinker
+# 💻 IT Student • Builder • Long-Term Thinker
 
 ---
 
-## 👤 The Blueprint
+## 🧭 The Blueprint
 
-I focus on **depth, discipline, and durability**. Understanding the underlying architecture matters more than memorizing frameworks.
+I focus on **depth, discipline, and durability**.  
+Understanding *how systems work beneath the surface* matters more than chasing tools or trends.
 
-**Core Beliefs:**
-- 🧠 `skills > marks > titles`
-- 🏗️ Build from fundamentals. Optimize for the long term.
-- 🚫 No shortcuts. No random learning. Just consistent progress.
+### Core Beliefs
+- 🧠 **Skills > Marks > Titles**
+- 🏗️ Build from fundamentals, then scale
+- ⏳ Optimize for the long term
+- 🚫 No shortcuts. No random learning. Only deliberate progress.
 
 ---
 
 ## ⚙️ Tech Stack
 
 | Domain | Technologies |
-|:---|:---|
-| **Languages** | `C` `Java` `Python` `Bash` |
-| **Foundations** | `DSA` `Operating Systems` `DBMS` `Networking` |
-| **Databases** | `PostgreSQL` `SQLite` `SQL` |
-| **DevOps** | `Linux` `Git` `Docker` `CI/CD` |
-| **Blockchain** | `Solidity` `Web3` `Smart Contracts` |
+|------|-------------|
+| **Languages** | `C` · `Java` · `Python` · `Bash` |
+| **Core Foundations** | `DSA` · `Operating Systems` · `DBMS` · `Computer Networks` |
+| **Databases** | `PostgreSQL` · `SQLite` · `SQL` |
+| **DevOps** | `Linux` · `Git` · `Docker` · `CI/CD` |
+| **Blockchain** | `Solidity` · `Web3` · `Smart Contracts` |
 
 ---
 
 ## 🔍 Areas of Interest
 
-**DevOps & Infrastructure**
-- Building reliable, scalable systems from the ground up
-- Exploring automation, containerization, and infrastructure as code
-- Focus: system observability, deployment pipelines, cloud-native architectures
+### 🛠️ DevOps & Infrastructure
+- Designing **reliable, scalable systems** from the ground up  
+- Automation, containerization, and infrastructure as code  
+- Focus areas:
+  - System observability  
+  - Deployment pipelines  
+  - Cloud-native architecture principles  
 
-**Blockchain & Decentralized Systems**
-- Understanding consensus mechanisms and distributed ledger architecture
-- Protocol-level knowledge over surface-level tooling
-- Focus: smart contract security, node infrastructure, DeFi systems
+### 🔗 Blockchain & Decentralized Systems
+- Deep understanding of **consensus mechanisms** and **distributed ledger architecture**
+- Protocol-level learning over surface-level tooling
+- Focus areas:
+  - Smart contract security  
+  - Node infrastructure  
+  - DeFi system design  
 
 ---
 
 ## 📊 Consistency Over Intensity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthuvelmukesh&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthuvelmukesh&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-*Building daily. Learning consistently.*
+> *Building daily. Learning consistently.*
 
 ---
 
 ## 🎯 Current Focus
 
-**Learning deeply:**
-- Linux system administration and automation
-- Container orchestration and deployment pipelines
-- Blockchain infrastructure and smart contract development
-- Data structures, algorithms, and system design
+### Learning Deeply
+- Linux system administration & automation  
+- Container orchestration & CI/CD pipelines  
+- Blockchain infrastructure & smart contract development  
+- Data structures, algorithms & system design  
 
-**Building for the long term:** Mastering fundamentals that compound—systems knowledge, security practices, and infrastructure thinking.
+### Building for the Long Term
+Mastering **fundamentals that compound**:
+- Systems thinking  
+- Security-first practices  
+- Infrastructure-level problem solving  
 
 ---
 
 ## 💡 Philosophy
 
-I believe in bridging traditional infrastructure practices with decentralized systems. DevOps principles apply everywhere—whether deploying web apps or maintaining blockchain nodes.
+I believe in **bridging traditional infrastructure with decentralized systems**.  
+DevOps principles apply everywhere — whether deploying web applications or maintaining blockchain nodes.
 
-Strong fundamentals. No shortcuts. Just consistent progress.
+**Strong fundamentals. No shortcuts. Just consistent progress.**
 
 ---
 
 ## 🤝 Connect
 
-Open to technical discussions, collaborations, and learning from others building with intention.
+Open to **technical discussions, collaborations, and learning with builders who think long-term**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:your-email)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/muthuvelmukeshk
+- 🧑‍💻 **GitHub:** https://github.com/muthuvelmukesh  
+- 📧 **Email:** muthuvelmukesh0609@gmail.com
 
 ---
 
-> *"The best way to predict the future is to build it."*
+> *“The best way to predict the future is to build it.”*
