@@ -115,9 +115,8 @@ class MuthuvelMukesh:
 ◈ ──────────────────── LEETCODE ────────────────────────── ◈
 ```
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MUTHUVEL%20MUKESH?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/MUTHUVEL-MUKESH/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MUTHUVEL%20MUKESH?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/FiqqVTYH6R/)
 
-> ⚠️ *Update the LeetCode username in the URL above to match your exact LeetCode handle*
 
 </div>
 
