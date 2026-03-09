@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=2nd+Year+CS+%40+M.Kumarasamy+College+of+Engineering;Blockchain+%7C+Backend+%7C+Quantum+Computing;DSA+%7C+Solidity+%7C+Systems+Programming;%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7CBuild%E2%9F%A9+%2B+%CE%B2%7CLearn%E2%9F%A9+%2B+%CE%B3%7CShip%E2%9F%A9;The+Matrix+has+you..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=2nd+Year+IT+%40+M.Kumarasamy+College+of+Engineering;Blockchain+%7C+Backend+%7C+Quantum+Computing;DSA+%7C+Solidity+%7C+Systems+Programming;%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7CBuild%E2%9F%A9+%2B+%CE%B2%7CLearn%E2%9F%A9+%2B+%CE%B3%7CShip%E2%9F%A9;The+Matrix+has+you..." alt="Typing SVG" />
 
 </div>
 
