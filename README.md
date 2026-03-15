@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Matrix Rain Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=MUTHUVEL%20MUKESH&fontSize=40&color=0:000000,100:00FF41&fontColor=00FF41&stroke=00FF41&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MUTHUVEL%20MUKESH&fontSize=42&color=0:0a0a0a,50:001a00,100:003300&fontColor=00FF41&stroke=00FF41&strokeWidth=1.5&animation=fadeIn" width="100%"/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT...                                                    ║
-║  > LOADING: MUTHUVEL_MUKESH.exe                                      ║
-║  > STATE: |ψ⟩ = α|Blockchain⟩ + β|Backend⟩ + γ|Quantum⟩            ║
-║  > SUPERPOSITION ACTIVE — COLLAPSE ON HIRE                           ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  > KERNEL INIT ............................................. [OK]         ║
+║  > LOADING MUTHUVEL_MUKESH.exe ............................. [OK]         ║
+║  > QUANTUM STATE: |ψ⟩ = α|Blockchain⟩ + β|Backend⟩ + γ|Quantum⟩       ║
+║  > SUPERPOSITION HELD — COLLAPSE REQUIRES OBSERVATION (read: hire me)  ║
+║  > THREAT MODEL: BUILDER. THINKER. SHIPS CODE.                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=2nd+Year+IT+%40+M.Kumarasamy+College+of+Engineering;Blockchain+%7C+Backend+%7C+Quantum+Computing;DSA+%7C+Solidity+%7C+Systems+Programming;%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7CBuild%E2%9F%A9+%2B+%CE%B2%7CLearn%E2%9F%A9+%2B+%CE%B3%7CShip%E2%9F%A9;The+Matrix+has+you..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=2nd+Year+IT+%40+M.Kumarasamy+College+of+Engineering;Blockchain+%7C+Backend+%7C+Quantum+Computing;Solidity+%7C+Java+%7C+Python+%7C+Rust+(learning);|%CF%88%E2%9F%A9+%3D+%CE%B1|Build%E2%9F%A9+%2B+%CE%B2|Learn%E2%9F%A9+%2B+%CE%B3|Ship%E2%9F%A9;Understand+deeply.+Build+meaningfully.+Ship+what+you+can+explain." alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +21,7 @@
 <div align="center">
 
 ```
-◈ ─────────────────── IDENTITY MATRIX ─────────────────── ◈
+◈ ───────────────────── IDENTITY MATRIX ───────────────────── ◈
 ```
 
 </div>
@@ -29,9 +29,10 @@
 ```python
 class MuthuvelMukesh:
     def __init__(self):
-        self.name        = "Muthuvel Mukesh"
+        self.name        = "Muthuvel Mukesh K"
+        self.alias       = "Mmk"
         self.college     = "M.Kumarasamy College of Engineering (MKCE)"
-        self.year        = "2nd Year — Information Technology"
+        self.degree      = "B.Tech — Information Technology · Sem 4"
         self.location    = "Tamil Nadu, India 🇮🇳"
         self.email       = "muthuvelmukesh0609@gmail.com"
         self.linkedin    = "linkedin.com/in/muthuvelmukeshk"
@@ -39,14 +40,22 @@ class MuthuvelMukesh:
 
     def superposition(self) -> dict:
         """
-        Like a qubit — I exist in all states simultaneously.
-        Collapsed only when observed (read: hired).
+        A qubit doesn't pick a state until measured.
+        Neither do I — each domain is fully inhabited until collapsed.
         """
         return {
-            "α · Blockchain" : "Solidity · Smart Contracts · Web3 · Consensus",
-            "β · Backend"    : "Java · Python · C · Systems · OS Internals",
-            "γ · Quantum"    : "Qubits · Superposition · Entanglement · NISQ Era",
+            "α · Blockchain" : "Solidity · Smart Contracts · Web3 · EVM · DeFi Primitives",
+            "β · Backend"    : "Java · Python · C · Systems Design · OS Internals · Linux",
+            "γ · Quantum"    : "Qiskit · NISQ Algorithms · Post-Quantum Cryptography · Q-safe Web3",
         }
+
+    def currently(self) -> list[str]:
+        return [
+            "Building: Quantum × Blockchain security research repo",
+            "Grinding: LeetCode DSA patterns + complexity analysis",
+            "Reading:  Distributed systems internals + consensus protocols",
+            "Exploring: Post-quantum cryptography (NIST PQC standards)",
+        ]
 
     def philosophy(self) -> str:
         return "Understand deeply. Build meaningfully. Ship what you can explain."
@@ -57,7 +66,7 @@ class MuthuvelMukesh:
 <div align="center">
 
 ```
-◈ ─────────────────── TECH STACK ───────────────────────── ◈
+◈ ──────────────────────── TECH STACK ─────────────────────── ◈
 ```
 
 **Languages**
@@ -69,20 +78,23 @@ class MuthuvelMukesh:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Systems & Tools**
+**Systems & Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 
-**CS Domains**
+**CS Foundations**
 
 ![DSA](https://img.shields.io/badge/DSA-00FF41?style=for-the-badge&logoColor=black)
-![OS](https://img.shields.io/badge/Operating_Systems-00FF41?style=for-the-badge&logoColor=black)
+![Operating_Systems](https://img.shields.io/badge/Operating_Systems-00FF41?style=for-the-badge&logoColor=black)
 ![DBMS](https://img.shields.io/badge/DBMS-00FF41?style=for-the-badge&logoColor=black)
-![CN](https://img.shields.io/badge/Computer_Networks-00FF41?style=for-the-badge&logoColor=black)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-00FF41?style=for-the-badge&logoColor=black)
+![Computer_Networks](https://img.shields.io/badge/Computer_Networks-00FF41?style=for-the-badge&logoColor=black)
+![Quantum_Computing](https://img.shields.io/badge/Quantum_Computing-00FF41?style=for-the-badge&logoColor=black)
+![Cryptography](https://img.shields.io/badge/Cryptography-00FF41?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -91,7 +103,62 @@ class MuthuvelMukesh:
 <div align="center">
 
 ```
-◈ ─────────────────── GITHUB METRICS ──────────────────── ◈
+◈ ──────────────────────── PROJECTS ───────────────────────── ◈
+```
+
+</div>
+
+### 🔹 [smart-hostel-mvp](https://github.com/MuthuvelMukesh/smart-hostel-mvp)
+> Full backend system for hostel management — modular OOP design, CRUD operations, and clean separation of concerns.  
+> `Java` · `OOP` · `Backend Architecture`  
+> *Demonstrates structured thinking: not just "make it work" but "make it make sense."*
+
+---
+
+### 🔹 [ECHO\_AI](https://github.com/MuthuvelMukesh/ECHO_AI)
+> Responsive front-end UI project with polished layout and disciplined component structure.  
+> `HTML` · `CSS` · `Frontend Design`  
+> *Pixel-accurate, device-responsive — built to look intentional, not accidental.*
+
+---
+
+### ⚛️ Quantum × Blockchain Security *(In Progress)*
+> Research into post-quantum cryptography applied to smart contract security and EVM-compatible chains.  
+> `Solidity` · `Qiskit` · `Lattice Cryptography` · `NIST PQC Standards`  
+> *Why it matters: today's blockchains are vulnerable to Shor's algorithm. Building the bridge before the threat arrives.*
+
+---
+
+### 🧠 Game-Theory Traffic Simulation *(Hackathon — Chakravyuh)*
+> Multi-agent smart traffic control using Nash equilibrium principles to reduce deadlock and optimize intersection flow.  
+> `Python` · `Game Theory` · `Simulation`  
+> *Built under pressure. Competed. Shipped.*
+
+---
+
+<div align="center">
+
+```
+◈ ─────────────────── QUANTUM STATE TABLE ─────────────────── ◈
+```
+
+| Domain | State | Current Focus |
+|:---|:---:|:---|
+| ⛓️ **Blockchain** | `\|Active⟩` | Solidity, EVM, Smart Contracts, DeFi Primitives |
+| 🔩 **Backend** | `\|Active⟩` | Java, C, OS Internals, Linux, Systems Design |
+| ⚛️ **Quantum** | `\|Superposition⟩` | Qiskit, NISQ Algorithms, Post-Quantum Cryptography |
+| 🧮 **DSA** | `\|Grinding⟩` | LeetCode Patterns, Complexity Analysis, Graphs |
+| 🔐 **Cryptography** | `\|Entangled⟩` | Lattice-based Crypto, ZK Proofs, NIST PQC |
+| 🌐 **Networks** | `\|Learning⟩` | TCP/IP, DNS, HTTP, Distributed Systems |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+◈ ──────────────────── GITHUB METRICS ─────────────────────── ◈
 ```
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuthuvelMukesh&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41"/>
@@ -112,12 +179,11 @@ class MuthuvelMukesh:
 <div align="center">
 
 ```
-◈ ──────────────────── LEETCODE ────────────────────────── ◈
+◈ ──────────────────────── LEETCODE ───────────────────────── ◈
 ```
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/MUTHUVEL%20MUKESH?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/FiqqVTYH6R/)
 
-
 </div>
 
 ---
@@ -125,51 +191,7 @@ class MuthuvelMukesh:
 <div align="center">
 
 ```
-◈ ──────────────────── PROJECTS ────────────────────────── ◈
-```
-
-</div>
-
-### 🔹 [smart-hostel-mvp](https://github.com/MuthuvelMukesh/smart-hostel-mvp)
-> Java-based hostel management system — backend logic, OOP design, and CRUD operations.  
-> `Java` `OOP` `Backend` — *First complete backend MVP; demonstrates structured thinking and clean code.*
-
----
-
-### 🔹 [ECHO_AI](https://github.com/MuthuvelMukesh/ECHO_AI)
-> Static UI project focused on responsive layout and front-end fundamentals.  
-> `HTML` `CSS` `Frontend` — *Polished and structured front-end output.*
-
----
-
-### ⚛️ Quantum × Blockchain Research *(In Progress)*
-> Exploring intersections of quantum-resistant cryptography and smart contract security.  
-> `Solidity` `Quantum` `Cryptography` — *Documenting findings — repo dropping soon.*
-
----
-
-<div align="center">
-
-```
-◈ ──────────────── QUANTUM STATE TABLE ─────────────────── ◈
-```
-
-| Domain | State | Current Focus |
-|---|---|---|
-| ⛓️ Blockchain | `\|Active⟩` | Solidity, Smart Contracts, Web3, DeFi basics |
-| 🔩 Backend | `\|Active⟩` | Java, C, OS internals, Linux, Systems design |
-| ⚛️ Quantum | `\|Superposition⟩` | Qubits, NISQ era, Quantum algorithms, Q-crypto |
-| 🧮 DSA | `\|Grinding⟩` | LeetCode patterns, complexity, problem solving |
-| 🌐 Networks | `\|Learning⟩` | TCP/IP, HTTP, DNS, distributed systems |
-
-</div>
-
----
-
-<div align="center">
-
-```
-◈ ──────────────────── CONNECT ─────────────────────────── ◈
+◈ ──────────────────────── CONNECT ────────────────────────── ◈
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthuvelmukeshk)
@@ -180,17 +202,19 @@ class MuthuvelMukesh:
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  "Build what you can point to.                                       ║
-║   Then talk confidently about how it works."                         ║
-║                                                                      ║
-║   |ψ⟩ = α|Blockchain⟩ + β|Backend⟩ + γ|Quantum⟩                    ║
-║   — collapsed only when observed.                                    ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "Most people optimize for the short path.                              ║
+║    I optimize for the path that compounds."                              ║
+║                                                                          ║
+║    |ψ⟩ = α|Blockchain⟩ + β|Backend⟩ + γ|Quantum⟩                       ║
+║    — wave function collapsed only upon observation.                      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://komarev.com/ghpvc/?username=MuthuvelMukesh&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer" width="100%"/>
